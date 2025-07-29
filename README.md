@@ -1,46 +1,52 @@
-# Getting Started with Create React App
+# 🛍️ Bw - Mini E-commerce App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Vercel Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-000?logo=vercel&logoColor=white)](https://bw-git-main-eromsinghals-projects.vercel.app/)
+[![React](https://img.shields.io/badge/Built%20with-React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
+[![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)](https://mui.com/)
+[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-EF018C?logo=framer&logoColor=white)](https://www.framer.com/motion/)
+[![License](https://img.shields.io/github/license/eromsinghal/Bw)](LICENSE)
 
-## Available Scripts
+> A sleek, modern mini e-commerce application built using **React**, **Redux Toolkit**, **TypeScript**, **Material UI**, and **Framer Motion**.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Live Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+🔗 **[Click here to visit the deployed site](https://bw-git-main-eromsinghals-projects.vercel.app/)**  
+Hosted on **Vercel**
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `npm test`
+## 🧰 Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- ⚛️ React + TypeScript
+- 🎯 Redux Toolkit for global state
+- 💅 Material UI (MUI) for sleek UI components
+- 🎬 Framer Motion for animations
+- 🔗 React Router for navigation
+- 🌐 Axios for API calls
+- 🔐 Environment configuration via `.env`
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📁 Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- 🔐 Login & Signup (form validation, alert handling)
+- 🏠 Home with product listings
+- 🛒 Product Detail pages with dynamic routing
+- ❤️ Add to Favorites or Cart
+- 🧠 State managed with Redux Toolkit
+- 🖼️ Lazy-loaded components for performance
+- 📱 Responsive UI with MUI Grid & Flex
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🛠️ Getting Started
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### 1. Clone the repository
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+git clone https://github.com/eromsinghal/Bw.git
+cd Bw
